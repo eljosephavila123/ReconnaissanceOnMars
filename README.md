@@ -10,3 +10,15 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
 </div>
+
+
+## Process.... 🧑🏼‍💻
+
+- [ ]  Creation of possible paths through images using A * start
+- [ ]  Search training (A * start)
+- [ ]  Classification of rocky materials (Tensorflow Lite)
+- [ ]  Simultaneous Work on Rover and Drone
+
+### Autor
+
+- J.D Avila(octajos)
