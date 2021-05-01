@@ -109,3 +109,5 @@ def astar(grid, start, goal):
         else:
             break
     return path[::-1]
+
+
