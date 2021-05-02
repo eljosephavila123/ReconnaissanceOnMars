@@ -12,23 +12,21 @@
 
 </div>
 
+# Process.... 🧑🏼‍💻
 
-## Process.... 🧑🏼‍💻
-
-# Process....
-
-- [ ]  Mars aerial image segmentation
-    - [ ]  Image binarization
-    - [ ]  Validation
-    - [ ]  Tests
-- [ ]  Creation of possible paths through images using A * start
-- [ ]  Search training (A * start)
-- [ ]  Classification of rocky materials (Tensorflow Lite)
-- [ ]  Simultaneous Work on Rover and Drone
+- [ ] Mars aerial image segmentation
+  - [ ] Image binarization
+  - [ ] Validation
+  - [ ] Tests
+- [ ] Creation of possible paths through images using A \* start
+- [ ] Search training (A \* start)
+- [ ] Classification of rocky materials (Tensorflow Lite)
+- [ ] Simultaneous Work on Rover and Drone
 
 ### Autor
 
 - J.D Avila(octajos)
+
 ### Autor
 
 - J.D Avila(octajos)
