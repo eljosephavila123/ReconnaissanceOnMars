@@ -27,6 +27,3 @@
 
 - J.D Avila(octajos)
 
-### Autor
-
-- J.D Avila(octajos)
